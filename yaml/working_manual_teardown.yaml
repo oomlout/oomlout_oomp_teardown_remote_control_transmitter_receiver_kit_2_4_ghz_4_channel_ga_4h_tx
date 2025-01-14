@@ -1,0 +1,126 @@
+id: oomlout_oomp_teardown_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_ga_4h_tx
+name: "Oomp Teardown Remote Control Transmitter Receiver Kit 2.4 GHz 4 Channel GA-4H-TX"
+description: "This teardown is for the Oomp Teardown"
+readme_manual: ""
+part_oomp_id: "remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx"
+steps:
+- box:
+  id: "box"
+  title: "In Box"
+  description: "Box photo"
+- box_1:
+  id: "box_1"
+  title: "Box Left Side"
+  description: "Box left side photo"
+- box_2:
+  id: "box_2"
+  title: "Box Right Side"
+  description: "Box right side photo"
+- teardown_1:
+  id: "teardown_1"    
+  title: "Controller Ready to Teardown"
+  description: "Controller ready to teardown"
+- teardown_2:
+  id: "teardown_2"
+  title: "Receiver Ready to Teardown"
+  description: "Receiver ready to teardown"
+- teardown_3:
+  id: "teardown_3"    
+  title: "Receiver Bottom"
+  description: "The bottom of the receiver"
+- teardown_4:
+  id: "teardown_4"
+  title: "Receiver Opened"
+  description: "The receiver opened. Use a sharp point to unclip the clips holding it together"
+- teardown_5:
+  id: "teardown_5"
+  title: "Receiver Apart"
+  description: "The receiver apart. The pcb is held in with glue, pull gently to remove"
+- teardown_6:
+  id: "teardown_6"
+  title: "Receiver PCB"
+  description: "The receiver PCB"
+- teardown_7:
+  id: "teardown_7"
+  title: "Transmitter Ready to Teardown"
+  description: "The transmitter ready to teardown"
+- teardown_8:
+  id: "teardown_8"
+  title: "Steering Wheel Removed"
+  description: "Steering wheel removed. Unscrew the retaining screw in the middle. Battery box lid easily unlips"
+- teardown_9:
+  id: "teardown_9"
+  title: "Transmitter Back Side"
+  description: "The back side of the transmitter. Remove seven screws to open"
+- teardown_10:
+  id: "teardown_10"
+  title: "Transmitter Opened"
+  description: "The transmitter opened."
+- teardown_11:
+  id: "teardown 11"
+  title: "Trigger Removed"
+  description: "The trigger removed. Unscrew the retaining screw"
+- teardown_12:
+  id: "teardown 12"
+  title: "Trigger Unplugged"
+  description: "The trigger unplugged. Pull gently to remove"
+- teardown_13:  
+  id: "teardown 13"
+  title: "Wheel Mount Closeup"
+  description: "The wheel mount closeup"
+- teardown_14:
+  id: "teardown 14"
+  title: "Wheel Mount Removed"
+  description: "The wheel mount removed. Unscrew the retaining screw"
+- teardown_15:
+  id: "teardown 15"
+  title: "Wheel Mount Unplugged"
+  description: "The wheel mount unplugged. Pull gently to remove"
+- teardown_16:
+  id: "teardown 16"
+  title: "Battery Box Removed"
+  description: "The battery box removed."
+- teardown_17:
+  id: "teardown 17"
+  title: "Battery Box Unplugged"
+  description: "The battery box unplugged. Pull gently to remove"
+- teardown_18:
+  id: "teardown 18"
+  title: "Transmitter PCB Removal"
+  description: "The transmitter PCB removal with top attached."
+- teardown_19:
+  id: "teardown 19"
+  title: "Transmitter PCB Removed Top"
+  description: "The transmitter PCB removed top photo"
+- teardown_20:
+  id: "teardown 20"
+  description: "The transmitter PCB removed bottom photo"
+- teardown_21:
+  id: "teardown 21"
+  title: "Transmitter PCB Removed From Top"
+  description: "The transmitter PCB removed from top"
+- teardown_22:
+  id: "teardown 22"
+  title: "Transmitter PCB With Top Label Beside"  
+  description: "The transmitter PCB with top label beside"
+- teardown_23:
+  id: "teardown 23"
+  title: "Transmitter PCB Detail Top"
+  description: "The transmitter PCB detail top"
+- teardown_24:
+  id: "teardown 24"
+  title: "Transmitter PCB Detail Bottom"
+  description: "The transmitter PCB detail bottom"
+
+
+
+
+
+
+
+
+
+
+
+
+

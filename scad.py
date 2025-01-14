@@ -54,7 +54,7 @@ def make_scad(**kwargs):
         #p3["thickness"] = 6
         part["kwargs"] = p3
         part["name"] = "base"
-        parts.append(part)
+        #parts.append(part)
 
         
     #make the parts

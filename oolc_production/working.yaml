@@ -2,6 +2,6 @@ project_id: oomlout_oomp_teardown_remote_control_transmitter_receiver_kit_2_4_gh
 project_name: Oomlout Oomp Teardown Remote Control Transmitter Receiver Kit 2 4 Ghz
   4 Channel Ga 4H Tx
 project_repo: https://github.com/oomlout/oomlout_oomp_teardown_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_ga_4h_tx
-production_format:
-  oolc_1:
-    file_location: source_files/oolc_1.cdr
+#production_format:
+#  oolc_1:
+#    file_location: source_files/oolc_1.cdr
