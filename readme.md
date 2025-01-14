@@ -1,8 +1,8 @@
 # Oomp Teardown Remote Control Transmitter Receiver Kit 2.4 GHz 4 Channel GA-4H-TX
-This teardown is for the Oomp Teardown. 
-OOMP details: 
-Link AliExpress: https://www.aliexpress.com/item/1005005061265278.html
-Link Amazon: https://www.amazon.co.uk/dp/B0D8686DBH
+This teardown is for the Oomp Teardown.     
+OOMP details: https://github.com/oomlout/oomlout_oomp_teardown_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_ga_4h_tx/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_ga_4h_tx    
+Link AliExpress: https://www.aliexpress.com/item/1005005061265278.html    
+Link Amazon: https://www.amazon.co.uk/dp/B0D8686DBH    
 
 
 
