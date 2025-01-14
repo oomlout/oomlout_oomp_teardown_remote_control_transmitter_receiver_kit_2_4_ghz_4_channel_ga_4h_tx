@@ -12,15 +12,18 @@ import scad
 
 def main(**kwargs):
     #place_parts(**kwargs)
-    #make_readme(**kwargs)
-    scad.make_scad(**kwargs)
+    make_readme(**kwargs)
+    #scad.make_scad(**kwargs)
     
     
 
 def make_readme(**kwargs):
-    os.system("generate_resolution.bat")
-    oom_markdown.generate_readme_project(**kwargs)
-    #oom_markdown.generate_readme_teardown(**kwargs)
+    import oom_base
+    directory = os.getcwd()    
+    oom_base.image_resolutions_dir(directory=directory, overwrite=False)
+
+    #oom_markdown.generate_readme_project(**kwargs)
+    oom_markdown.generate_readme_teardown(**kwargs)
     
 def make_scad(**kwargs):
     import opsc
